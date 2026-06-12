@@ -12,7 +12,7 @@ This is a simple notes app built with React and Django.
 git clone https://github.com/LondheShubham153/django-notes-app.git
 ```
 
-2. Build the application
+2. Build the app
 ```
 docker build -t notes-app .
 ```
